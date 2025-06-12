@@ -18,7 +18,7 @@ To run the algorithm, you need to:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repo/optimization-ml.git
+   git clone https://github.com/Abedulftah/GoodSubspaces.git
    cd optimization-ml
 
    ```
