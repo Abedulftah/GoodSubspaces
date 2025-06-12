@@ -19,7 +19,7 @@ To run the algorithm, you need to:
 
    ```bash
    git clone https://github.com/Abedulftah/GoodSubspaces.git
-   cd optimization-ml
+   cd GoodSubspaces
 
    ```
 
